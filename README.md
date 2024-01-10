@@ -8,7 +8,7 @@ Los datos son una recopilación de información sobre pistas musicales (tracks),
 * Python y librerias para el manejo de datos
 
 ## Instalación
-Para utilizar este repositorio, primero clone el repositorio en su máquina local usando:
+Para utilizar este repositorio, primero clone el repositorio a una carpeta de su máquina local usando:
 ``` 
 git clone https://github.com/alvaro6omez/spotify_qualitytest.git
 ```
@@ -16,3 +16,5 @@ Genere y active un entorno virtual y despues instale las dependencias necesarias
 ``` 
 pip install -r requirements.txt
 ``` 
+## Manejo de errores
+Si llegase a presentar problemas al ejecuctar el archivo main_punto1.py, verifique que las rutas de lectura están correctas acorde a la estructura de su carpeta, lo mismo aplica para los notebooks.
