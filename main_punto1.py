@@ -136,8 +136,8 @@ def comparar_dataframes(df1, df2):
 if __name__ == "__main__":
 
     # Rutas de los archivos
-    json_path = 'taylor_swift_spotify.json'
-    csv_path = 'dataset.csv'
+    json_path = 'Datos/taylor_swift_spotify.json'
+    csv_path = 'Datos/dataset.csv'
 
     # Cargar archivos
     df_json = cargar_y_aplanar_json(json_path)
